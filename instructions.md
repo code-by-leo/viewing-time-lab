@@ -48,7 +48,7 @@ You will compute descriptive statistics using the `statistics` module. Afterward
 
 Be sure to import both packages at the top of your notebook! 
 
-Afterwards, you will write up a brief observation on your findings: did the averages differ from one dataset to another? Which dataset had the highest viewing time? What about the dispersion? What this tell you about viewing behaviors of both datasets.
+Afterwards, you will write up a brief observation on your findings: did the averages differ from one dataset to another? Which dataset had the highest viewing time? What about the dispersion? What does this tell you about viewing behaviors of both datasets.
 
 **Note**: Be sure to back up your findings with discrete numbers.
 

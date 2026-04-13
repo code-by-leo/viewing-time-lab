@@ -10,7 +10,7 @@ def clean_data(data):
     for row in data:
         #skip the 0th line
         if row != "minutes\n":
-            #why name the type? | Append to the clean_data list as a float?
+            #why name the type? | Append to the clean_data list as a float
             clean_data.append(float(row.strip()))
-            #return to the tuple list 
+            #return clean data to use where you call the function
     return clean_data
